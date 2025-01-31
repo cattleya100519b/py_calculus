@@ -1,4 +1,4 @@
-## 書籍
+## Book
 - [Pythonで理解する微分積分の基礎](https://gihyo.jp/book/2022/978-4-297-12779-4)
 - [GitHub](https://github.com/ghmagazine/python_calculus_book)
 
